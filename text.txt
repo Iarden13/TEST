@@ -1,4 +1,4 @@
-Привет!
+Hello!
 Console not cool
 Window is great choice!
 {
